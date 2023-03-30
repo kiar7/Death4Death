@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.apple.unityplugin.accessibility": {
+      "tarball": {
+        "hash": "833a091186c4",
+        "mtime": 1679685773666,
+        "size": 66491,
+        "localPath": "/Users/kiar/Downloads/unityplugins-main/Build/com.apple.unityplugin.accessibility-1.0.2.tgz"
+      }
+    },
+    "com.apple.unityplugin.core": {
+      "tarball": {
+        "hash": "1909efd4473d",
+        "mtime": 1679685772648,
+        "size": 27473,
+        "localPath": "/Users/kiar/Downloads/unityplugins-main/Build/com.apple.unityplugin.core-1.0.3.tgz"
+      }
+    },
+    "com.apple.unityplugin.corehaptics": {
+      "tarball": {
+        "hash": "107f730438f7",
+        "mtime": 1679685773335,
+        "size": 146384,
+        "localPath": "/Users/kiar/Downloads/unityplugins-main/Build/com.apple.unityplugin.corehaptics-1.0.2.tgz"
+      }
+    },
+    "com.apple.unityplugin.gamekit": {
+      "tarball": {
+        "hash": "c68b807ba0f2",
+        "mtime": 1679685773977,
+        "size": 45073,
+        "localPath": "/Users/kiar/Downloads/unityplugins-main/Build/com.apple.unityplugin.gamekit-1.0.4.tgz"
+      }
+    }
+  }
+}

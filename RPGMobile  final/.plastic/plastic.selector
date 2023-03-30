@@ -1,0 +1,4 @@
+repository "Solitude@Mischio@cloud"
+  path "/"
+    br "/main"
+    co "/main"

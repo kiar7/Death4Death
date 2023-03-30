@@ -1,0 +1,9 @@
+Build/
+TestBuilds/
+scripts/__pycache__/
+**/.DS_Store
+**/.idea/*
+**/Temp/*
+plug-ins/**/TestPlayers
+**/xcuserdata
+*.vsconfig
